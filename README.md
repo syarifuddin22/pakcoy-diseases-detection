@@ -1,0 +1,1 @@
+# pakcoy-diseases-detection
